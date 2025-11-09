@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>404Foundxxx's GitHub Profile</h1>
+  <h1>gabrielmarte-dev GitHub Profile</h1>
 </div>
 
 <div align="center">
@@ -29,8 +29,8 @@
 <div align="center">
   <h3>🐍 GitHub Contribution Snake</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/404Foundxxx/404Foundxxx/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/404Foundxxx/404Foundxxx/output/github-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/404Foundxxx/404Foundxxx/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielmarte-dev/gabrielmarte-dev/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielmarte-dev/gabrielmarte-dev/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/gabrielmarte-dev/gabrielmarte-dev/output/github-snake.svg">
   </picture>
 </div>
